@@ -26,6 +26,8 @@ auto, break, case, char, const, continue, default, do, double, else, enum, exter
 | identifier | 8       | abc_test         |
 | error      | -1      |                  |
 
+index为变量名在变量名数组中的位置或预留关键词在关键词数组中的位置。
+
 ## Result
 
 ![result](.\imgs\image-20221011230138285.png)
