@@ -28,7 +28,7 @@ auto, break, case, char, const, continue, default, do, double, else, enum, exter
 
 ## Result
 
-![image-20221011230138285](.\imgs\image-20221011230138285.png)
+![result](.\imgs\image-20221011230138285.png)
 
 ## P.S.
 
