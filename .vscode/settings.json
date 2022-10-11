@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "type_traits": "cpp",
+    "lex.h": "c",
+    "initializer_list": "c",
+    "xiosbase": "c",
+    "xstring": "c",
+    "xtree": "c",
+    "xutility": "c"
+  }
+}
